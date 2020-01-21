@@ -27,5 +27,3 @@ getCountry('MX', (error, country) => {
         console.log(`Country name: ${country.name}`)
     }
 })
-
-
