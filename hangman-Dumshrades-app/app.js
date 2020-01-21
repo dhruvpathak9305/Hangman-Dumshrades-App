@@ -20,7 +20,6 @@ getPuzzle((error, puzzle) => {
     }
 })
 
-
 // Making an HTTP request
 
 
